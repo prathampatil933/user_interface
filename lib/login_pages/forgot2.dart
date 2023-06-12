@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:user_interface/primarypages/homepage.dart';
-import 'package:user_interface/main.dart';
 
 class Forgot2Page extends StatefulWidget {
   @override
